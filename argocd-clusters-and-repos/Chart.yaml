@@ -1,0 +1,5 @@
+apiVersion: v2
+name: argocd-clusters-and-repos
+description: Helm Chart to add clusters and repos to ArgoCD
+type: application
+version: 0.0.1

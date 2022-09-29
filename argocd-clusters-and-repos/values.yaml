@@ -1,0 +1,11 @@
+repositories:
+  - "infrastructure-helm-charts"
+  - "business-helm-charts"
+  - "argocd-infra-apps"
+  - "argocd-business-apps"
+
+clusters:
+  - "dev-cluster"
+  - "stage-cluster"
+  - "uat-cluster"
+  - "prod-cluster"
