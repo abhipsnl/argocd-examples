@@ -1,0 +1,5 @@
+apiVersion: v2
+name: argocd-kubenetes-clusters
+description: Kubernetes secrets chart
+type: application
+version: 0.0.1
