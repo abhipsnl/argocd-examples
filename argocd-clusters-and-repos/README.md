@@ -36,6 +36,7 @@ sequenceDiagram
 
 1. hashicorp vault setup.
 2. The vault path with repo and cluster credentials has to be configured prior to this exercise.
+3. banzai cloud webhook.
 
 ## Examples
 
