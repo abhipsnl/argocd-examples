@@ -56,6 +56,11 @@ clusters:
   - "prod-cluster"
 ```
 
+## Video Explanation
+
+[![Video Explanation](https://img.youtube.com/vi/wNRqzpnXUmA/0.jpg)](https://www.youtube.com/watch?v=wNRqzpnXUmA)
+
+
 ## Explanation
 
 `repositories`: A list of repositories needs to be added to ArgoCD.
@@ -111,3 +116,4 @@ name: stage-cluster
 server: vault:secrets/data/argocd/clusters/stage-cluster#endpoint
 config: vault:secrets/data/argocd/clusters/stage-cluster#config
 ```
+
